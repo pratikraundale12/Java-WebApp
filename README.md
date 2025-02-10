@@ -3,16 +3,7 @@
 This project is a simple Java web application demonstrating a CI/CD pipeline using Jenkins, Maven, and Apache Tomcat.
 
 ## Project Structure
-src/main
-├── java/ # Java source files
-├── resources/ # Configuration and resource files
-└── webapp/ # Web application files (e.g., JSP, HTML, CSS)
-target/ # Compiled and packaged output (e.g., WAR file)
-pom.xml # Maven configuration file
-README.md # Project documentation
-
-Copy
-
+![image](https://github.com/user-attachments/assets/032b9dae-661d-41f6-a0af-deb4a0f177b1)
 ## Tools Used
 
 - **Jenkins**: For continuous integration and deployment.
