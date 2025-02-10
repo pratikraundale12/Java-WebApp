@@ -21,7 +21,3 @@ The CI/CD pipeline is set up to automate the build, test, and deployment process
 
 - **Main Commit**: Updated `index.jsp` and configured the CI/CD pipeline.
 - **First Commit**: Initial project setup with `pom.xml` and basic structure.
-
----
-
-For more details, refer to the project files or contact the maintainer.
